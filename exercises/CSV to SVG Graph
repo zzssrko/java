@@ -1,0 +1,4 @@
+Create a Java program that reads a CSV file and makes a Graphfrom in it using SVG.
+For this we suppose the data is pre ordered.
+First Row has all the different entities and first column contains the timeline(X-Axis).
+Ideally it should handle multiple entities but for a simpler version it can work with just 2 columns.
